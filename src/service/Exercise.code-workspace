@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../Exercise"
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../JS_course/Lab"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Asm"
+  }
+}
